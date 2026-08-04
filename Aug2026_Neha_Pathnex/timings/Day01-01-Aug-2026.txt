@@ -1,0 +1,15 @@
+# What I did today
+3 Hour - morning lecture
+1 Hour - coding
+3 Hour - understand and create EC2 and configure Git on the EC2 machine raise a PR
+2 Hour - reading/understanding about IP address, subnet and complete roadmap of devOps
+15 min - evening class
+
+# Tomorrow's Task
+morning lecture
+complete task before evening lecture
+evening lecture
+
+
+
+ 
