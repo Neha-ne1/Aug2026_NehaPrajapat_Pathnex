@@ -1,0 +1,15 @@
+# What I did today
+3 Hour - morning lecture
+1 Hour - coding
+4 Hour - Linux command practice
+       - File and Directory Operations commands
+       - File Permission Commands
+       - File Compression and Archiving Commands
+1 Hour - evening session
+
+# Tomorrow's Task
+morning Lecture 
+linux command practice
+-Process Management
+-System Information 
+-Networking Commands
