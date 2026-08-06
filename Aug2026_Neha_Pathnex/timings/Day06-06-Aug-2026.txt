@@ -1,0 +1,14 @@
+# What I did today
+3 hour - morning class
+30 min - linux command quick revice(10 commands)
+1 hour - shell scripting (read notes and practice)
+1 hour - understand and read git notes 
+45 min - write code and raise PR
+30 min - speaking practice
+
+# Tomorrow's Task
+quick revice next linux commands
+speaking practice
+quick read git notes
+start AWS 
+
