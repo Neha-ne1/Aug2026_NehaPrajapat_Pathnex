@@ -1,0 +1,12 @@
+# What I did today
+6 hour - lecture video(Docker and kubernets) with practice
+45 min - write code and push on git
+1 hour - speaking practice
+1 hour - intro video
+
+# Tomorrow's Task
+morning lecture of kubernets Day 2
+understand what i learn in lecture also practical
+speaking practice
+PR raise
+intro video
